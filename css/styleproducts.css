@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+    background-color: #e6f7ff;
+    color: #004080;
+}
+
+h1 {
+    color: #0066cc;
+}
+
+.product {
+    border: 1px solid #0066cc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #0066cc;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+}

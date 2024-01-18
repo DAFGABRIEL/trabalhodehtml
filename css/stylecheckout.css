@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+    background-color: #e6ffe6;
+    color: #006600;
+}
+
+h1 {
+    color: #009900;
+}
+
+form {
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #009900;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+}

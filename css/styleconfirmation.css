@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+    background-color: #ccf2ff;
+    color: #006680;
+}
+
+h1 {
+    color: #0080a0;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #006680;
+    text-decoration: none;
+    font-weight: bold;
+}
